@@ -3,5 +3,5 @@ terraform.tfstate
 terraformthings.tfplan
 .terraform/
 .terraform.lock.hcl
-bin/
+bin/*
 
