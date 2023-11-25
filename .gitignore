@@ -1,4 +1,5 @@
 # created by virtualenv automatically
+terraform.tfstate.backup
 terraform.tfstate
 terraformthings.tfplan
 .terraform/
