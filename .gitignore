@@ -2,5 +2,5 @@
 terraform.tfstate
 terraformthings.tfplan
 .terraform/*
-bin/
-lib/
+bin/*
+lib/*
