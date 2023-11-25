@@ -1,2 +1,5 @@
 # created by virtualenv automatically
-.terraform.tfstate
+terraform.tfstate
+terraformthings.tfplan
+.terraform
+.terraform.lock.hcl
