@@ -1,6 +1,6 @@
 # created by virtualenv automatically
 terraform.tfstate
 terraformthings.tfplan
-.terraform/
+.terraform/*
 bin/
 lib/
