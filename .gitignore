@@ -1,7 +1,7 @@
 # created by virtualenv automatically
 terraform.tfstate
 terraformthings.tfplan
-.terraform/*
+.terraform/
 bin/*
 lib/*
 # .terraform/providers/registry.terraform.io/hashicorp/aws/5.26.0/linux_amd64/terraform-provider-aws_v5.26.0_x5
